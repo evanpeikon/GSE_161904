@@ -1,5 +1,5 @@
 # 🧬  Project Introduction: 
-## Investigating Transcriptional Changes in Alzheimer's Disease Using 3xTg-AD Mouse Model
+## Investigating Transcriptional Changes in Alzheimer's Disease Using a 3xTg-AD Mouse Model
 
 Alzheimer’s disease is characterized by progressive cognitive impairment and is associated with complex pathophysiological changes, including amyloid deposition, neuroinflammation, and dysregulated gene expression. 
 
